@@ -1,5 +1,7 @@
 # 🚀 Gmail Chat & AI Live Voice Companion
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render)](https://gmail-chatapplication.onrender.com)
+
 A state-of-the-art, premium real-time chat application featuring **Google Sign-In**, **WebRTC Voice & Video calling**, an **IndexedDB offline-first cache**, real-time **Gemini AI text and live PCM audio conversation companions**, **Firebase Firestore sync with local fallbacks**, and a cryptographically secure **one-click email reply integration**.
 
 ---
