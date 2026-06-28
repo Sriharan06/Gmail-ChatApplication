@@ -1,0 +1,19 @@
+{
+  "collections": {
+    "messages": {
+      "schema": {
+        "id": "string",
+        "senderId": "string",
+        "receiverId": "string",
+        "content": "string",
+        "type": "string",
+        "status": "string",
+        "timestamp": "number",
+        "fileName": "string | null",
+        "fileSize": "number | null",
+        "expiresAt": "number | null",
+        "reactions": "object | null"
+      }
+    }
+  }
+}

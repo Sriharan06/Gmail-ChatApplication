@@ -1,0 +1,6 @@
+{
+  "name": "Gmail Chat",
+  "description": "A full-stack, real-time chat and WebRTC video/voice calling application using Gmail accounts instead of phone numbers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,282 @@
+{
+  "users": {
+    "alice_gmail_com": {
+      "id": "alice_gmail_com",
+      "email": "alice@gmail.com",
+      "name": "Alice Adams",
+      "picture": "https://api.dicebear.com/7.x/adventurer/svg?seed=Alice",
+      "lastSeen": 1782298508711,
+      "isOnline": false
+    },
+    "bob_gmail_com": {
+      "id": "bob_gmail_com",
+      "email": "bob@gmail.com",
+      "name": "Bob Baker",
+      "picture": "https://api.dicebear.com/7.x/adventurer/svg?seed=Bob",
+      "lastSeen": 1781865133974,
+      "isOnline": false
+    },
+    "charlie_gmail_com": {
+      "id": "charlie_gmail_com",
+      "email": "charlie@gmail.com",
+      "name": "Charlie Clark",
+      "picture": "https://api.dicebear.com/7.x/adventurer/svg?seed=Charlie",
+      "lastSeen": 1782124240246,
+      "isOnline": false
+    },
+    "gemini_ai_gmail_com": {
+      "id": "gemini_ai_gmail_com",
+      "email": "gemini_ai@gmail.com",
+      "name": "Gemini Live AI",
+      "picture": "https://api.dicebear.com/7.x/bottts/svg?seed=gemini",
+      "lastSeen": 1781865133974,
+      "isOnline": true
+    },
+    "sriharan6320_gmail_com": {
+      "id": "sriharan6320_gmail_com",
+      "email": "sriharan6320@gmail.com",
+      "name": "sriharan6320",
+      "picture": "https://api.dicebear.com/7.x/adventurer/svg?seed=sriharan6320",
+      "lastSeen": 1782120975162,
+      "isOnline": false
+    },
+    "sriharan632016_gmail_com": {
+      "id": "sriharan632016_gmail_com",
+      "email": "sriharan632016@gmail.com",
+      "name": "Sriharan632016",
+      "picture": "https://api.dicebear.com/7.x/adventurer/svg?seed=sriharan632016_gmail_com",
+      "lastSeen": 1781945332705,
+      "isOnline": false
+    }
+  },
+  "messages": [
+    {
+      "id": "msg_1781865190618_i03qw",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "heloo",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781865190672
+    },
+    {
+      "id": "msg_1781865193962_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "sriharan6320_gmail_com",
+      "content": "Communication issue: GEMINI_API_KEY is missing on the server. Please add it to your Settings > Secrets panel.",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781865193962
+    },
+    {
+      "id": "msg_1781865242802_pumuh",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "hii",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781865242820
+    },
+    {
+      "id": "msg_1781865242834_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "sriharan6320_gmail_com",
+      "content": "Communication issue: GEMINI_API_KEY is missing on the server. Please add it to your Settings > Secrets panel.",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781865242834
+    },
+    {
+      "id": "msg_1781868833721_m0j15",
+      "senderId": "alice_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "Hiii",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781868833818
+    },
+    {
+      "id": "msg_1781868850385_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "alice_gmail_com",
+      "content": "Hi there! It's so nice to meet you. I'm here if you ever want to chat or need a hand with anything, so feel free to tap that Call icon at the top if you'd rather talk things through out loud!",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781868850385
+    },
+    {
+      "id": "msg_1781868958389_icb6e",
+      "senderId": "alice_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "Hello Gemini, tell me a quick joke.",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781868958585
+    },
+    {
+      "id": "msg_1781868965220_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "alice_gmail_com",
+      "content": "Why don't scientists trust atoms? Because they make up everything! \n\nHope that brought a smile to your face! If you ever want to hear more jokes or just chat, feel free to click the Call icon in the header to start a voice conversation.",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781868965221
+    },
+    {
+      "id": "msg_1781952113714_95qxf",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "Hiii",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781952113733
+    },
+    {
+      "id": "msg_1781952126481_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "sriharan6320_gmail_com",
+      "content": "Hi there! I'm so glad you reached out—how is your day going? If you'd ever like to talk out loud, just click the Call icon in the header to start a voice conversation anytime!",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781952126481
+    },
+    {
+      "id": "msg_1781952178589_qkwbk",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "no i'm in the class i can't call you right now",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781952178611
+    },
+    {
+      "id": "msg_1781952182306_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "sriharan6320_gmail_com",
+      "content": "Totally understand, definitely focus on your class right now! We can stick to texting here, but whenever you're free and want to talk later, just tap the Call icon in the header to start a voice chat.",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781952182306
+    },
+    {
+      "id": "msg_1781952221831_52utv",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "i have a doubt that if i send a normal message to a  person means whether it will reach them or not",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781952221884
+    },
+    {
+      "id": "msg_1781952236539_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "sriharan6320_gmail_com",
+      "content": "Generally, yes! As long as you have a stable network connection and their phone number is correct, a normal text message will reach them. We can chat more about how different messaging apps work after your class, and feel free to tap the Call icon in the header if you want to talk it through later!",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781952236539
+    },
+    {
+      "id": "msg_1781952443585_goyxg",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "No I don't want to send the messge through number I have created this based on the email chatting onlly",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781952443628
+    },
+    {
+      "id": "msg_1781952447369_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "sriharan6320_gmail_com",
+      "content": "Oh, got it! Yes, if you send a Google Chat message using their email, it will go straight to their inbox or Chat app and they'll get a notification. Let me know if you need help setting that up, and remember we can always talk it through out loud if you click the Call icon in the header after your class!",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781952447369
+    },
+    {
+      "id": "msg_1781952510504_9520z",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "gemini_ai_gmail_com",
+      "content": "ok",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781952510532
+    },
+    {
+      "id": "msg_1781952536144_vfyv0",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "sriharan632016_gmail_com",
+      "content": "haii",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781952536156
+    },
+    {
+      "id": "msg_1781952584324_gemini",
+      "senderId": "gemini_ai_gmail_com",
+      "receiverId": "sriharan6320_gmail_com",
+      "content": "Awesome! Have a great rest of your class, and I'll be right here whenever you need me. Feel free to click the Call icon in the header later if you'd like to switch to a voice chat!",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1781952584326
+    },
+    {
+      "id": "msg_1781954888627_p567i",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "sriharan632016_gmail_com",
+      "content": "hii",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781954888643
+    },
+    {
+      "id": "msg_1781955480618_bi1sq",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "sriharan632016_gmail_com",
+      "content": "hii",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781955480639
+    },
+    {
+      "id": "msg_1781959676126_05lpv",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "sriharan632016_gmail_com",
+      "content": "hi",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1781959676162
+    },
+    {
+      "id": "msg_1782119820145_ptbdt",
+      "senderId": "sriharan6320_gmail_com",
+      "receiverId": "sriharan632016_gmail_com",
+      "content": "ho",
+      "type": "text",
+      "status": "sent",
+      "timestamp": 1782119820161
+    },
+    {
+      "id": "msg_1782120371775_dhfb5",
+      "senderId": "charlie_gmail_com",
+      "receiverId": "sriharan6320_gmail_com",
+      "content": "Hlo",
+      "type": "text",
+      "status": "read",
+      "timestamp": 1782120371855
+    }
+  ],
+  "calls": [],
+  "disappearingSettings": {},
+  "blockedUsers": {},
+  "reportedUsers": {},
+  "emailSettings": {
+    "resendApiKey": "re_4bZVAaLk_5q892BD7yY7jftSma9ZyJYA6",
+    "smtpHost": "",
+    "smtpPort": "587",
+    "smtpUser": "",
+    "smtpPass": "",
+    "smtpFrom": ""
+  }
+}
