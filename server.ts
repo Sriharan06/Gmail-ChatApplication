@@ -25,7 +25,7 @@ const io = new Server(server, {
   maxHttpBufferSize: 1e7, // 10MB file ceiling
 });
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // Initialize Database Storage (Simulated robust in-memory/JSON store for Cloud Run sandbox)
 const DB_FILE = path.join(process.cwd(), "db.json");
